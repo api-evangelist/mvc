@@ -1,11 +1,18 @@
+aid: mvc
 name: MVC
-description: MVC is a technology or concept used in computing and information technology
-  to address specific technical challenges. It provides capabilities that help practitioners
-  build, manage, or improve systems and processes in their domain.
-url: null
+description: Model-View-Controller (MVC) is a software architectural pattern that separates an application into three interconnected components - the Model (data), View (user interface), and Controller (logic) - to promote organized, maintainable code.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
 tags:
 - MVC
+- Software Architecture
+- Design Patterns
 created: '2025'
-modified: '2025'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
