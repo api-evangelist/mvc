@@ -2,6 +2,17 @@ aid: mvc
 name: MVC
 description: Model-View-Controller (MVC) is a software architectural pattern that separates an application into three interconnected components - the Model (data), View (user interface), and Controller (logic) - to promote organized, maintainable code.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
